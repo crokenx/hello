@@ -4,3 +4,5 @@ github.com/crokenx/greetings v0.0.0-20230304231838-948e08895547 h1:4zq5+xK5pTrer
 github.com/crokenx/greetings v0.0.0-20230304231838-948e08895547/go.mod h1:Ii08Kk25h8xMv/tcKI0XIKrR3sYMAZUZu5JVR9R9jEQ=
 github.com/crokenx/greetings v0.0.0-20230304233618-55f640458fda h1:ZBMQmGW6H+aWSJju7w1x1oQGHUOu8gyjS4DXtL9CXc8=
 github.com/crokenx/greetings v0.0.0-20230304233618-55f640458fda/go.mod h1:Ii08Kk25h8xMv/tcKI0XIKrR3sYMAZUZu5JVR9R9jEQ=
+github.com/crokenx/greetings v0.0.0-20230305154230-ed3ca0ca10a2 h1:jrUapGEgnoAcJ4bpqm+bP4rQDaaIXL32AB352je6sQk=
+github.com/crokenx/greetings v0.0.0-20230305154230-ed3ca0ca10a2/go.mod h1:Ii08Kk25h8xMv/tcKI0XIKrR3sYMAZUZu5JVR9R9jEQ=
