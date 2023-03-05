@@ -1,9 +1,9 @@
 package main
 
 import (
-  "fmt"
-  "log"
-  "github.com/crokenx/greetings"
+	"fmt"
+	"log"
+	"github.com/crokenx/greetings"
 )
 
 func main(){
